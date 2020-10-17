@@ -24,3 +24,7 @@ To compile simply run `make`.
 ```
 ./build/partition_numbers {MAX_NUMBER}
 ```
+
+## Efficiency
+
+The code isn't well optimized. I can already think of a few ways it could be improved. Maybe I'll implement those at a later date.
